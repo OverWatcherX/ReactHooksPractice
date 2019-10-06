@@ -3,6 +3,8 @@
 ## 简介
 React Hooks 已经发布一年了，但是还有足够多的公司和产品使用，所以我们守望者X技术团队用我们这个项目来分享我们将近一年的 React Hooks 的实战经验。
 
+[往期分享录像 https://space.bilibili.com/393949/video](https://space.bilibili.com/393949/video)
+
 ## 目录
 
 
